@@ -7,3 +7,5 @@ The RMI Chat Application with Java Swing UI is a powerful and easy-to-use commun
 
 ## Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJIDEACommunity](https://img.shields.io/badge/IntelliJ-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
+
